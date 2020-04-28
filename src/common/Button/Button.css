@@ -1,0 +1,27 @@
+.button {
+    display: flex;
+    justify-content: center;
+    height: 75px;
+    border-radius: 25px;
+    Background-color:mediumpurple;
+    border-color: purple ;
+    margin: 0 auto;
+    color:black;
+    font-size: 20px;
+    font-family: system-ui;
+    width:75%;
+}
+.button:hover {
+    display: flex;
+    justify-content: center;
+    height: 75px;
+    border-radius: 25px;
+    Background-color:pink;
+    border-color: purple;
+
+    width:75%;
+}
+
+a {
+    text-decoration: none;
+}

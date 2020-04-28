@@ -1,0 +1,24 @@
+.imgDiv {
+    text-align: center;
+}
+
+.imgAbout {
+    border-radius: 45px;
+   width:85%
+}
+
+.about {
+    margin-top: 57px;
+    background-color: whitesmoke;
+    width: 100%;
+
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+    width: 60%;
+    border-radius: 25px;
+}

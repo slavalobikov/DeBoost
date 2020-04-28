@@ -1,0 +1,65 @@
+.commentsGrid {
+    display:grid;
+    grid-template-columns: 4fr 8fr;
+}
+
+/*.commentsGrid img {
+    width:100%;
+}*/
+
+
+/*@media (max-width:769px) {
+    .boostGrid img {
+        padding-top: 15px;
+        width: 100px;
+        height: 100px;
+        border-radius: 250px;
+    }
+    .boostGrid p {
+        font-size:18px;
+    }
+}*/
+
+@media (max-width:769px) {
+    .commentsGrid img {
+        width: 100px;
+        height: 100px;
+        border-radius: 250px;
+        margin-left: 15px;
+    }
+    .commentsGrid p {
+        text-align: center;
+        color: darkblue;
+        font-family: "Sitka Text";
+        font-size: 16px;
+    }
+    .xxx {
+
+        color:black;
+
+
+
+    }
+}
+
+@media (min-width:769px) {
+    .commentsGrid img {
+        width: 250px;
+        height: 250px;
+        border-radius: 250px;
+        margin-left: 75px;
+    }
+    .commentsGrid p {
+        text-align: center;
+        color: darkblue;
+        font-family: "Sitka Text";
+        font-size: 24px;
+    }
+    .xxx {
+        padding-top: 75px;
+        color:black;
+
+
+
+    }
+}
