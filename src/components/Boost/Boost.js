@@ -35,7 +35,7 @@ class Boost extends React.Component {
                         </div>
                         <PanelInfo />
                     </div>
-                    <Button a='https://discord.gg/h52ddHM' text='Заказать де-буст'/>
+                    <Button a='https://discord.com/invite/h52ddHM' text='Заказать де-буст'/>
                     <div className='had'></div>
                 </div>
 
